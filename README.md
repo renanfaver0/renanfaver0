@@ -1,15 +1,14 @@
 <h1 align="center">Olá, meu nome é Renan Favero, seja bem vindo!</h1>
 <h3 align="center">Sou desenvolvedor de softwares Front-end</h3>
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 - 🔭 Atualmente estou trabalhando na [https://saveincloud.com/](https://saveincloud.com/pt/)
 - 🌱 Atualmente estou aprendendo: **Angular, Java, PHP**
 - 📫 Como entrar em contato comigo: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/145344075975884801)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1650816912)
 - ⚡ Curiosidade: Em meu tempo livre, gosto de passear com o meu cachorro pela cidade.
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfaver0&show_icons=true&theme=merko)
 
