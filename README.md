@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Renan Favero, seja bem vindo!</h1>
+<h2 align="center">Olá, meu nome é Renan Favero, seja bem vindo!</h2>
 <h4 align="center">Sou um desenvolvedor de softwares apaixonado por tecnologia, pronto para novos desafios no dia a dia!</h4>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -13,7 +13,7 @@
 
 <h3 align="center">Tecnologias que utilizo em meus projetos💻</h3>
 
-<div style="align="center"><br/>
+<div class="container"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
