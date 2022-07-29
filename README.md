@@ -10,9 +10,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1650816912)
 - ⚡ Curiosidade: Em meu tempo livre, gosto de passear com o meu cachorro pela cidade.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfaver0&show_icons=true&theme=merko)
 
-## Tecnologias que utilizo em meus projetos💻
+<h3 align="center">Tecnologias que utilizo em meus projetos💻</h3> Tecnologias que utilizo em meus projetos💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
