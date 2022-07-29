@@ -1,4 +1,5 @@
-### Olá! Eu sou o Renan, seja muito bem-vindo ao meu Github! 🙂
+<h1 align="center">Olá, meu nome é Renan Favero, seja bem vindo!</h1>
+<h3 align="center">Sou desenvolvedor de softwares Front-end</h3>
 
 - 🔭 Atualmente estou trabalhando na [https://saveincloud.com/](https://saveincloud.com/pt/)
 - 🌱 Atualmente estou aprendendo: **Angular, Java, PHP**
