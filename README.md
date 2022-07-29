@@ -11,9 +11,9 @@
 - ⚡ Curiosidade: Em meu tempo livre, gosto de passear com o meu cachorro pela cidade.
 
 
-<h3 align="center">Tecnologias que utilizo em meus projetos💻</h3> Tecnologias que utilizo em meus projetos💻
+<h3 align="center">Tecnologias que utilizo em meus projetos💻</h3>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block align="left"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
