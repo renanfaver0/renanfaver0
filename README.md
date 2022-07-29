@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Renan Favero, seja bem vindo!</h1>
-<h3 align="center">Sou desenvolvedor de softwares Front-end</h3>
+Sou um desenvolvedor de softwares apaixonado por tecnologia, pronto para novos desafios no dia a dia!
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
