@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando na [https://saveincloud.com/](https://saveincloud.com/pt/)
 - 🌱 Atualmente estou aprendendo: **Angular, Java, PHP**
-- 📫 Como entrar em contato comigo: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/145344075975884801)
+- 📫 Como entrar em contato comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1650816912)
 - ⚡ Curiosidade: Em meu tempo livre, gosto de passear com o meu cachorro pela cidade.
