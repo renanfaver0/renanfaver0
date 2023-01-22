@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name is Renan, welcome! :v:</h2>
+<h2 align="center">Olá, meu nome é Renan, seja bem vindo! :v:</h2>
 
 - 📫 Meus contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
