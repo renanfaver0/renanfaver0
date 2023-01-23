@@ -1,9 +1,9 @@
 <h2 align="center">Olá, meu nome é Renan, seja bem vindo! :v:</h2>
 
 
-Atualmente estou focado na aprendizagem da linguagem: .NET(CSharp);
+Atualmente estou focado na aprendizagem da linguagem: <h4>.NET(CSharp)</h4>
 
-Sinta-se a vontade para se conectar comigo:
+<h4>Sinta-se a vontade para se conectar comigo</h4>:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
 
 Entre em contato comigo: renaan.favero@gmail.com
