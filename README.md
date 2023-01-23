@@ -1,7 +1,7 @@
 <h2 align="center">Olá, meu nome é Renan, seja bem vindo! :v:</h2>
 
 
-Atualmente estou focado na aprendizagem da linguagem: <h4>.NET(CSharp)</h4>
+Atualmente estou focado na aprendizagem da linguagem: <h5>.NET(CSharp)</h5>
 
 <h4>Sinta-se a vontade para se conectar comigo:</h4>
 
