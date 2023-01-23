@@ -1,15 +1,18 @@
 <h2 align="center">Olá, meu nome é Renan, seja bem vindo! :v:</h2>
 
 
-Atualmente estou focado na aprendizagem da linguagem: <h5>.NET(CSharp)</h5>
+:seedling:Atualmente estou focado na aprendizagem da linguagem: <h5>.NET(CSharp)</h5>
+
 
 <h4>Sinta-se a vontade para se conectar comigo:</h4>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
 
-:mailbox: - E-mail para contato: renaan.favero@gmail.com
 
--  <h3>Linguagens e ferramentas:</h3>
+:mailbox:E-mail para contato: renaan.favero@gmail.com
+
+
+:computer:<h3>Linguagens e ferramentas:</h3>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
