@@ -9,7 +9,7 @@ Atualmente estou focado na aprendizagem da linguagem: <h4>.NET(CSharp)</h4>
 
 E-mail para contato: renaan.favero@gmail.com
 
-- # Linguagens e ferramentas: 
+-  <h3>Linguagens e ferramentas:</h3>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
