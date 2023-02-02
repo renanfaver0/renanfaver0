@@ -14,6 +14,6 @@
 
 <h4>Linguagens e ferramentas:</h4>
 
-<h5><i>HTML5, CSS3, JavaScript, Bootstrap 5, PHP, .NET(CSharp), Visual Studio Code.</h5></i>
+<h5><i>HTML5, CSS3, JavaScript, Bootstrap 5, PHP, .NET, ASP NET Core, CSharp, Visual Studio Code.</h5></i>
 
 
