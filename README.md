@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-favero-405754218/)
 
 
-:mailbox: <h5>E-mail para contato: renaan.favero@gmail.com</h5>
+:mailbox: E-mail para contato: renaan.favero@gmail.com
 
 
 <h4>Linguagens e ferramentas:</h4>
