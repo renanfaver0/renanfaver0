@@ -29,7 +29,7 @@ Firebird,
 Microsoft SQL Server,
 Microsoft MySQL
 
-<h4><i>Virtualizazação:</h4></i>
+<h4><i>Virtualização:</h4></i>
 Conhecimentos em Docker
 
 <h4><i>Versionamento:</h4></i>
