@@ -14,24 +14,24 @@
 
 <h4>Linguagens e ferramentas:</h4>
 
-<h5><i>Front End:</h5></i>
-HTML
-CSS
-JavaScript
-Bootstrap 5
+<h4><i>Front End:</h4></i>
+HTML,
+CSS,
+JavaScript,
+Bootstrap 5,
 
-<h5><i>Back End:</h5></i>
-NET Framework e .NET Core 
+<h4><i>Back End:</h4></i>
+NET Framework e .NET Core,
 PHP
 
-<h5><i>Banco de Dados:</h5></i>
-Firebird
-Microsoft SQL Server
-Microsoft MySQL
+<h4><i>Banco de Dados:</h4></i>
+Firebird,
+Microsoft SQL Server,
+Microsoft MySQL,
 
-<h5><i>Virtualizazação:</h5></i>
+<h4><i>Virtualizazação:</h4></i>
 Conhecimentos em Docker
 
-<h5><i>Versionamento:</h5></i>
+<h4><i>Versionamento:</h4></i>
 Git
 
