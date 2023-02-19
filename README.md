@@ -18,7 +18,7 @@
 HTML,
 CSS,
 JavaScript,
-Bootstrap 5,
+Bootstrap 5
 
 <h4><i>Back End:</h4></i>
 NET Framework e .NET Core,
@@ -27,11 +27,12 @@ PHP
 <h4><i>Banco de Dados:</h4></i>
 Firebird,
 Microsoft SQL Server,
-Microsoft MySQL,
+Microsoft MySQL
 
 <h4><i>Virtualizazação:</h4></i>
 Conhecimentos em Docker
 
 <h4><i>Versionamento:</h4></i>
+
 Git
 
