@@ -21,7 +21,8 @@ JavaScript,
 Bootstrap 5
 
 <h4><i>Back End:</h4></i>
-NET Framework e .NET Core,
+NET Framework e .NET Core, 
+ASP NET MVC,
 PHP
 
 <h4><i>Banco de Dados:</h4></i>
